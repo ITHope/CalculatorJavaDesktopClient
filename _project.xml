@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CalculatorBtn</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>AssertJ</name>
+			<value>file:/E:/CSharpDev/MyPreviousVersions/2017.09.22/JavaEclipseProjects/CalculatorBtn/LIB/assertj-core-3.3.0.jar</value>
+		</variable>
+		<variable>
+			<name>AssertJSwing</name>
+			<value>file:/E:/CSharpDev/MyPreviousVersions/2017.09.22/JavaEclipseProjects/CalculatorBtn/LIB/assertj-swing-3.2.0.jar</value>
+		</variable>
+		<variable>
+			<name>Festutil</name>
+			<value>file:/E:/CSharpDev/MyPreviousVersions/2017.09.22/JavaEclipseProjects/CalculatorBtn/LIB/fest-util-1.2.5.jar</value>
+		</variable>
+	</variableList>
+</projectDescription>
